@@ -1,0 +1,7 @@
+.env
+.idea
+.eventos_manager
+*.sqlite3
+*pyc
+__pycache__
+.vscode
